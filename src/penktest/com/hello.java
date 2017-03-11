@@ -22,6 +22,7 @@ public static void main(String[] args) {
 	System.out.println("hello!");
 	System.out.println(6666);
 	int a = 99999;
-	String c = "我修改了master原来的代码";
+	//String c = "我修改了master原来的代码";
+	//add ddd
 }
 }
