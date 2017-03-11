@@ -20,5 +20,7 @@ package penktest.com;
 public class hello {
 public static void main(String[] args) {
 	System.out.println("hello!");
+	int a = 666;
+	System.out.println(8888);
 }
 }
